@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPerLapAssignment2</string>
+    <string name="Enterquestion">Enter a question</string>
+    <string name="addquestion">Add a question here </string>
+    <string name="noOfQues">Number of questions</string>
+    <string name="startGame">Start</string>
+    <string name="question">Question</string>
+</resources>
